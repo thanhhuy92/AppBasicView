@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BasicView</string>
+    <string name="txtName">Name</string>
+    <string name="txtEmail">Email</string>
+    <string name="editName"></string>
+    <string name="editEmail"></string>
+    <string name="btnCancel">Cancel</string>
+    <string name="btnInfo">Infomation</string>
+    <string name="txtHobbies">Hobbies</string>
+    <string name="chkReading">Reading</string>
+    <string name="chkTravelling">Travelling</string>
+    <string name="chkCoding">Coding</string>
+    <string name="txtSex">Sex</string>
+    <string name="rdMale">Male</string>
+    <string name="rdFeMale">FeMale</string>
+    <string name="txtLan">Languages</string>
+</resources>
